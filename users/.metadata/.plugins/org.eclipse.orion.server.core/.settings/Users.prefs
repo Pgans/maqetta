@@ -1,0 +1,9 @@
+A/Id=A
+A/Name=pgans
+A/UserName=chatree
+A/UserRights=[{"Method"\:15,"Uri"\:"/users/A"},{"Method"\:15,"Uri"\:"/workspace/chatree"},{"Method"\:15,"Uri"\:"/workspace/chatree/*"},{"Method"\:15,"Uri"\:"/file/chatree"},{"Method"\:15,"Uri"\:"/file/chatree/*"}]
+A/UserRightsVersion=3
+A/Workspaces=[{"Id"\:"chatree","LastModified"\:1474614994818}]
+A/maqettaInit=true
+A/maqettaWorkbenchPref={"activeEditor"\:"./project1/lesson1.html","editors"\:["./project1/lesson1.html","./project1/lesson1.js"]}
+eclipse.preferences.version=1
